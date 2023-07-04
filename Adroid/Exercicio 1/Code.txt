@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary">
+
+        <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/Botão"
+        android:padding="10dp"
+            >
+
+            <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_toStartOf="@id/image"
+            android:padding="10dp"
+            >
+
+                <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="A a tua APP"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20dp"
+                />
+
+                <Button
+                android:layout_width="100dp"
+                android:layout_height="10dp"
+                android:background="@color/colorAccent"/>
+
+                <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@android:drawable/btn_star_big_on"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+
+                <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Uma App do caralho para ti"
+                android:textColor="@color/colorPrimary"
+                android:textSize="15dp"
+                />
+
+            </LinearLayout>
+
+            <ImageView
+            android:id="@+id/image"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@mipmap/unnamed"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true"
+            />
+
+        </RelativeLayout>
+
+        <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Click Here and get the gift!"
+        android:textSize="20dp"
+        />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:orientation="vertical"
+        android:background="@color/colorPrimaryDark"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@color/colorPrimaryDark"
+            >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Outra APP"
+                    android:textSize="30dp"
+                    android:textColor="@color/Branco"
+                    android:padding="10dp"
+                    />
+
+                <Button
+                    android:layout_width="150dp"
+                    android:layout_height="20dp"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@android:drawable/btn_star_big_on"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Outra App do caralho"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+
+            </LinearLayout>
+
+
+             <ImageView
+                 android:layout_width="150dp"
+                 android:layout_height="150dp"
+                 android:layout_alignParentTop="true"
+                 android:layout_alignParentEnd="true"
+                 android:src="@drawable/ic_launcher_foreground"
+                 android:padding="0dp"
+                 />
+
+        </RelativeLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:padding="10dp"
+            android:text="Click Here and win 1.000.000 Dolars"
+            android:textSize="20sp"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/Botão">
+
+
+</LinearLayout>
+</LinearLayout>
+
+
+
+
+
+
+ <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:orientation="vertical"
+        android:background="@color/colorPrimaryDark"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@color/colorPrimaryDark"
+            >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Outra APP"
+                    android:textSize="30dp"
+                    android:textColor="@color/Branco"
+                    android:padding="10dp"
+                    />
+
+                <Button
+                    android:layout_width="150dp"
+                    android:layout_height="20dp"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@android:drawable/btn_star_big_on"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Outra App do caralho"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+
+            </LinearLayout>
+
+
+             <ImageView
+                 android:layout_width="150dp"
+                 android:layout_height="150dp"
+                 android:layout_alignParentTop="true"
+                 android:layout_alignParentEnd="true"
+                 android:src="@drawable/ic_launcher_foreground"
+                 android:padding="0dp"
+                 />
+
+        </RelativeLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:padding="10dp"
+            android:text="Click Here and win 1.000.000 Dolars"
+            android:textSize="20sp"
+            />
+
+    </LinearLayout>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+
+    Exercício 1
+
+    Como incluir layouts de ficheiros diferentes
+
+    Reparem que o ficheiro cell.xml é que tem o layout da célula do filme
+    Aqui, no layout da Activity só vamos buscá-lo, fazendo o que está abaixo
+
+    Assim conseguimos fazer pequenos componentes e reutilizar em várias secções do ecrã
+
+    Tentem fazer o mesmo:
+
+    1. Criem um ficheiro "cell.xml" e passem o layout da vossa célula para lá.
+    2. No vosso "activity_main.xml" façam "include" do layout
+
+    Desta maneira podem experimentar repetir a célula ao longo do ecrã para ver como fica
+     -->
+
+    <!--
+
+    Exercício 2
+
+    Vamos popular a informação da célula com dados dinâmicos no código da aplicação (MainActivity.kt)
+
+    Para isso precisamos de:
+
+    1. Definir o "android:id" da célula que incluímos em baixo
+    2. Definir o "android:id" das `TextView` que a célula contém (no ficheiro `cell.xml`)
+     -->
+
+
+    <include android:id="@+id/activity_main_cell" layout="@layout/cell"/>
+
+</LinearLayout>

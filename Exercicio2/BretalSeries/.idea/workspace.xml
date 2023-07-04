@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="Nexus 6" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2e8df97-22d8-4b45-b17f-5135ff6589df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cm88sPN9aUlwOnEHiWSCry3I0e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AndroidStudioProjects/BretalSeries" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1591638827357" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android JUnit.ExampleUnitTest.hasCharacter_test">
+    <configuration name="ExampleUnitTest.hasCharacter_test" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.bretalseries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.bretalseries" />
+      <option name="MAIN_CLASS_NAME" value="com.example.bretalseries.ExampleUnitTest" />
+      <option name="METHOD_NAME" value="hasCharacter_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleUnitTest.isCharacterNumberPair_test" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.bretalseries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.bretalseries" />
+      <option name="MAIN_CLASS_NAME" value="com.example.bretalseries.ExampleUnitTest" />
+      <option name="METHOD_NAME" value="isCharacterNumberPair_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleUnitTest.isPair_test" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.bretalseries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.bretalseries" />
+      <option name="MAIN_CLASS_NAME" value="com.example.bretalseries.ExampleUnitTest" />
+      <option name="METHOD_NAME" value="isPair_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleUnitTest.numberOfCharacters_test" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.bretalseries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.bretalseries" />
+      <option name="MAIN_CLASS_NAME" value="com.example.bretalseries.ExampleUnitTest" />
+      <option name="METHOD_NAME" value="numberOfCharacters_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleUnitTest.square_test" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.bretalseries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.bretalseries" />
+      <option name="MAIN_CLASS_NAME" value="com.example.bretalseries.ExampleUnitTest" />
+      <option name="METHOD_NAME" value="square_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.ExampleUnitTest.hasCharacter_test" />
+        <item itemvalue="Android JUnit.ExampleUnitTest.isCharacterNumberPair_test" />
+        <item itemvalue="Android JUnit.ExampleUnitTest.numberOfCharacters_test" />
+        <item itemvalue="Android JUnit.ExampleUnitTest.isPair_test" />
+        <item itemvalue="Android JUnit.ExampleUnitTest.square_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2e8df97-22d8-4b45-b17f-5135ff6589df" name="Default Changelist" comment="" />
+      <created>1591122251728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591122251728</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1416" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593626997144">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1600.860@0.0.1600.860" timestamp="1593626997144" />
+    <state x="591" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1593112447905">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="591" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1593112447905" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1594923253043">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1594923253043" />
+    <state width="1557" height="198" key="GridCell.Tab.0.bottom" timestamp="1594242345531">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="699" height="55" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591645597717" />
+    <state width="1557" height="198" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1594242345531" />
+    <state width="918" height="2" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1591651248163" />
+    <state width="1557" height="198" key="GridCell.Tab.0.center" timestamp="1594242345531">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="699" height="55" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591645597715" />
+    <state width="1557" height="198" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1594242345531" />
+    <state width="918" height="2" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1591651248161" />
+    <state width="1557" height="198" key="GridCell.Tab.0.left" timestamp="1594242345531">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="699" height="55" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591645597712" />
+    <state width="1557" height="198" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1594242345531" />
+    <state width="918" height="2" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1591651248161" />
+    <state width="1557" height="198" key="GridCell.Tab.0.right" timestamp="1594242345531">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="699" height="55" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591645597717" />
+    <state width="1557" height="198" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1594242345531" />
+    <state width="918" height="2" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1591651248163" />
+    <state x="51" y="67" width="1240" height="700" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1591125646196">
+      <screen x="0" y="23" width="1440" height="847" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1440.900@0.0.1440.900" timestamp="1591125627032" />
+    <state x="51" y="67" width="1240" height="700" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1440.847@0.23.1440.847" timestamp="1591125646196" />
+    <state x="594" y="330" key="com.intellij.ide.util.TipDialog" timestamp="1594921964383">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="594" y="330" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1594921964383" />
+    <state x="950" y="552" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1591638823942" />
+    <state x="571" y="148" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1592338052609">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="571" y="148" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.0.1600.860@0.0.1600.860" timestamp="1592338052609" />
+    <state x="63" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1594234319248">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="63" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1594234319248" />
+  </component>
+</project>
